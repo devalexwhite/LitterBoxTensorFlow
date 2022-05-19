@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Originals</folder>
+	<filename>vlcsnap-2022-05-18-15h18m43s698.png</filename>
+	<path>/Volumes/Backups/Poop Detector Training/Originals/vlcsnap-2022-05-18-15h18m43s698.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>maoxin</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>91</xmin>
+			<ymin>664</ymin>
+			<xmax>474</xmax>
+			<ymax>1001</ymax>
+		</bndbox>
+	</object>
+</annotation>
